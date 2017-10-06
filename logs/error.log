@@ -1,0 +1,233 @@
+2017/10/05 11:23:31 [emerg] 9440#0: unknown directive "127.0.0.1" in /home/def/nginx/conf/nginx.conf:90
+2017/10/05 11:30:22 [emerg] 9711#0: unknown directive "127.0.0.1" in /home/def/nginx/conf/nginx.conf:90
+2017/10/05 11:39:32 [emerg] 10067#0: unknown directive "127.0.0.1" in /home/def/nginx/conf/nginx.conf:90
+2017/10/05 11:46:49 [error] 10202#0: *1 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/10/05 11:46:49 [error] 10202#0: *1 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/10/05 11:46:53 [error] 10202#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 11:46:56 [error] 10202#0: *1 open() "/home/def/nginx/html/admin" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 11:46:58 [error] 10202#0: *1 open() "/home/def/nginx/html/pictures/01.jpg" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 11:47:00 [error] 10202#0: *1 open() "/home/def/nginx/html/pictures/01.gif" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.gif HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 11:47:25 [notice] 10371#0: signal process started
+2017/10/05 12:14:13 [emerg] 10903#0: unexpected end of file, expecting "}" in /home/def/nginx/conf/vhosts/backend.conf:62
+2017/10/05 12:14:46 [emerg] 10964#0: unexpected end of file, expecting "}" in /home/def/nginx/conf/vhosts/backend.conf:62
+2017/10/05 12:17:05 [notice] 11112#0: signal process started
+2017/10/05 12:21:27 [emerg] 11371#0: unexpected end of file, expecting "}" in /home/def/nginx/conf/vhosts/backend.conf:62
+2017/10/05 12:22:28 [notice] 11433#0: signal process started
+2017/10/05 12:29:17 [error] 11615#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:29:26 [error] 11615#0: *1 open() "/home/def/nginx/html/admin" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:29:28 [error] 11615#0: *1 open() "/home/def/nginx/html/pictures/01.jpg" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:29:43 [error] 11615#0: *2 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/10/05 12:29:44 [error] 11615#0: *2 open() "/home/def/nginx/html/pictures/01.gif" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.gif HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:30:01 [notice] 11790#0: signal process started
+2017/10/05 12:31:07 [error] 11915#0: *2 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/10/05 12:31:08 [error] 11915#0: *2 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:31:10 [error] 11915#0: *2 open() "/home/def/nginx/html/admin" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:31:12 [error] 11915#0: *2 open() "/home/def/nginx/html/pictures/01.jpg" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:31:14 [error] 11915#0: *2 open() "/home/def/nginx/html/pictures/01.gif" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.gif HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:31:52 [notice] 12045#0: signal process started
+2017/10/05 12:32:55 [error] 12081#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:33:09 [notice] 12094#0: signal process started
+2017/10/05 12:37:22 [error] 12155#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:23 [error] 12155#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:24 [error] 12155#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:24 [error] 12155#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:25 [error] 12155#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:26 [error] 12155#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:27 [error] 12155#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:50 [notice] 12177#0: signal process started
+2017/10/05 12:37:54 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:55 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:55 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:56 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:57 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:58 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:58 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:37:59 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:38:00 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:38:01 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:38:01 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:38:02 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:38:51 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:38:51 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:39:24 [error] 12189#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:39:26 [error] 12189#0: *1 open() "/home/def/nginx/html/admin" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:39:28 [error] 12189#0: *1 open() "/home/def/nginx/html/pictures/01.jpg" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:39:31 [error] 12189#0: *1 open() "/home/def/nginx/html/pictures/01.gif" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.gif HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:39:42 [notice] 12221#0: signal process started
+2017/10/05 12:40:10 [error] 12266#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:40:41 [notice] 12279#0: signal process started
+2017/10/05 12:45:16 [error] 12394#0: *1 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/10/05 12:45:17 [error] 12394#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:55:25 [error] 12394#0: *2 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:55:30 [error] 12394#0: *2 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 12:55:54 [notice] 13155#0: signal process started
+2017/10/05 12:55:54 [alert] 13155#0: kill(12393, 15) failed (1: Operation not permitted)
+2017/10/05 12:56:52 [emerg] 13179#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 12:57:47 [emerg] 13219#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 12:59:42 [emerg] 13356#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 13:00:02 [emerg] 13407#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 13:00:49 [emerg] 13440#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 13:02:01 [emerg] 13564#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 13:03:58 [emerg] 13704#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 13:05:10 [emerg] 13752#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 13:06:45 [emerg] 13894#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 13:07:22 [notice] 13969#0: signal process started
+2017/10/05 13:14:26 [notice] 14273#0: signal process started
+2017/10/05 13:16:50 [error] 14394#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 13:16:55 [error] 14394#0: *1 open() "/home/def/nginx/html/admin" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 13:16:57 [error] 14394#0: *1 open() "/home/def/nginx/html/pictures/01.jpg" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 13:17:00 [error] 14394#0: *1 open() "/home/def/nginx/html/pictures/01.gif" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.gif HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 13:17:08 [notice] 14419#0: signal process started
+2017/10/05 13:19:55 [error] 14597#0: *1 open() "/home/def/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 13:19:57 [error] 14597#0: *1 open() "/home/def/nginx/html/admin" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 13:20:02 [error] 14597#0: *1 open() "/home/def/nginx/html/pictures/01.jpg" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 13:20:05 [error] 14597#0: *1 open() "/home/def/nginx/html/pictures/01.gif" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.gif HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/10/05 13:21:03 [notice] 14640#0: signal process started
+2017/10/05 13:22:39 [error] 14667#0: *1 open() "/home/def/nginx/html/pictures/01.gif" failed (2: No such file or directory), client: 192.168.122.18, server: localhost, request: "GET /pictures/01.gif HTTP/1.1", host: "192.168.122.18"
+2017/10/05 13:22:39 [error] 14667#0: *1 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.18, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.18"
+2017/10/05 13:22:39 [error] 14667#0: *1 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.18, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.18"
+2017/10/05 13:22:44 [error] 14667#0: *1 "/home/def/nginx/html/pictures/index.html" is not found (2: No such file or directory), client: 192.168.122.18, server: localhost, request: "GET /pictures/ HTTP/1.1", host: "192.168.122.18"
+2017/10/05 13:22:49 [error] 14667#0: *2 directory index of "/home/def/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.18, server: 192.168.122.18, request: "GET /pictures/ HTTP/1.1", host: "192.168.122.18:8080"
+2017/10/05 13:22:49 [error] 14667#0: *2 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.18, server: 192.168.122.18, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.18:8080"
+2017/10/05 13:26:45 [notice] 14732#0: signal process started
+2017/10/05 13:28:10 [notice] 14809#0: signal process started
+2017/10/05 14:09:13 [error] 15640#0: *1 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/10/05 14:09:23 [error] 15640#0: *2 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.18, server: 192.168.122.18, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.18:8080"
+2017/10/05 14:16:22 [notice] 16073#0: signal process started
+2017/10/06 09:31:02 [emerg] 14676#0: "location" directive is not allowed here in /home/def/nginx/conf/vhosts/lb.conf:7
+2017/10/06 09:31:54 [emerg] 14704#0: "location" directive is not allowed here in /home/def/nginx/conf/vhosts/lb.conf:6
+2017/10/06 09:40:09 [error] 14867#0: *1 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.67, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.67:8080"
+2017/10/06 09:40:27 [error] 14867#0: *1 open() "/home/def/nginx/html/etc" failed (2: No such file or directory), client: 192.168.122.67, server: 192.168.122.67, request: "GET /etc HTTP/1.1", host: "192.168.122.67:8080"
+2017/10/06 09:40:46 [notice] 15227#0: signal process started
+2017/10/06 09:43:06 [error] 15273#0: *2 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.67, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.67:8443"
+2017/10/06 09:44:00 [notice] 15299#0: signal process started
+2017/10/06 09:47:18 [error] 15446#0: *2 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.67:8080", referrer: "http://192.168.122.67:8080/"
+2017/10/06 09:47:32 [error] 15446#0: *2 open() "/home/def/nginx/html/etc" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /etc HTTP/1.1", host: "192.168.122.67:8080"
+2017/10/06 09:47:40 [error] 15446#0: *7 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.67:8443", referrer: "http://192.168.122.67:8443/"
+2017/10/06 09:48:17 [notice] 15571#0: signal process started
+2017/10/06 09:49:09 [notice] 15669#0: signal process started
+2017/10/06 09:51:17 [error] 15818#0: *6 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.67:8443", referrer: "https://192.168.122.67:8443/"
+2017/10/06 09:52:21 [notice] 15869#0: signal process started
+2017/10/06 09:54:09 [notice] 15924#0: signal process started
+2017/10/06 09:55:06 [notice] 15978#0: signal process started
+2017/10/06 09:56:27 [notice] 16023#0: signal process started
+2017/10/06 09:57:15 [notice] 16069#0: signal process started
+2017/10/06 10:00:35 [emerg] 16138#0: invalid variable name in /home/def/nginx/conf/vhosts/lb.conf:5
+2017/10/06 10:05:09 [error] 16163#0: *7 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 10:11:01 [error] 16163#0: *31 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 10:12:26 [notice] 16765#0: signal process started
+2017/10/06 10:13:07 [error] 16791#0: *2 open() "/home/def/nginx/html/etc" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /etc HTTP/1.1", host: "192.168.122.67"
+2017/10/06 10:13:21 [notice] 16811#0: signal process started
+2017/10/06 10:15:35 [error] 16877#0: *2 open() "/home/def/nginx/html/etc" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /etc HTTP/1.1", host: "192.168.122.67"
+2017/10/06 10:16:44 [error] 16877#0: *2 open() "/home/def/nginx/html/etc" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /etc HTTP/1.1", host: "192.168.122.67"
+2017/10/06 10:23:06 [error] 16877#0: *10 open() "/home/def/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 10:23:11 [error] 16877#0: *10 open() "/home/def/nginx/html/etc" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.67, request: "GET /etc HTTP/1.1", host: "192.168.122.67"
+2017/10/06 10:30:00 [notice] 17083#0: signal process started
+2017/10/06 10:34:49 [emerg] 17155#0: host not found in upstream "node1" in /home/def/nginx/conf/nginx.conf:24
+2017/10/06 10:46:02 [notice] 17324#0: signal process started
+2017/10/06 10:55:10 [notice] 17525#0: signal process started
+2017/10/06 10:56:27 [emerg] 17550#0: "upstream" directive is not allowed here in /home/def/nginx/conf/upstreams/web.conf:6
+2017/10/06 10:58:38 [notice] 17622#0: signal process started
+2017/10/06 11:12:40 [notice] 17873#0: signal process started
+2017/10/06 11:12:50 [error] 17896#0: *2 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:12:50 [error] 17896#0: *2 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:13:14 [error] 17896#0: *2 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:13:14 [error] 17896#0: *2 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:13:42 [error] 17896#0: *2 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:13:42 [error] 17896#0: *2 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:13:43 [error] 17896#0: *2 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:13:43 [error] 17896#0: *2 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:13:43 [error] 17896#0: *2 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:13:43 [error] 17896#0: *2 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:13:43 [error] 17896#0: *2 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:13:44 [error] 17896#0: *2 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:13:44 [error] 17896#0: *2 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:13:44 [error] 17896#0: *2 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:14:19 [notice] 17926#0: signal process started
+2017/10/06 11:17:47 [error] 17974#0: *3 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:17:47 [error] 17974#0: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:17:49 [error] 17974#0: *3 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:17:50 [error] 17974#0: *3 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:17:50 [error] 17974#0: *3 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:17:50 [error] 17974#0: *3 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:17:50 [error] 17974#0: *3 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:17:50 [error] 17974#0: *3 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:18:11 [notice] 17995#0: signal process started
+2017/10/06 11:18:43 [error] 18019#0: *3 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:18:43 [error] 18019#0: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:19:47 [error] 18019#0: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:19:47 [error] 18019#0: *8 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:19:47 [error] 18019#0: *8 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:20:42 [notice] 18064#0: signal process started
+2017/10/06 11:34:39 [error] 18243#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:34:39 [error] 18243#0: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:34:39 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:34:45 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:34:45 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:35:04 [error] 18243#0: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:35:04 [error] 18243#0: *11 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:35:04 [error] 18243#0: *11 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67"
+2017/10/06 11:35:04 [error] 18243#0: *11 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67"
+2017/10/06 11:35:12 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:35:12 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:35:13 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:35:13 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:35:13 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:35:13 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:35:14 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:35:14 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:35:14 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:35:14 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:35:14 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:35:14 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:35:33 [error] 18243#0: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:35:33 [error] 18243#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:35:33 [error] 18243#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:35:51 [notice] 18263#0: signal process started
+2017/10/06 11:36:18 [error] 18311#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:36:18 [error] 18311#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:36:18 [error] 18311#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:36:22 [error] 18311#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:37:41 [error] 18311#0: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:37:41 [error] 18311#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:38:22 [error] 18311#0: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:38:22 [error] 18311#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:38:52 [error] 18311#0: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:38:52 [error] 18311#0: *11 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:38:52 [error] 18311#0: *11 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67"
+2017/10/06 11:38:52 [error] 18311#0: *11 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67"
+2017/10/06 11:39:01 [notice] 18342#0: signal process started
+2017/10/06 11:42:14 [error] 18397#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:42:14 [error] 18397#0: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:42:14 [error] 18397#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67"
+2017/10/06 11:43:25 [error] 18397#0: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:43:25 [error] 18397#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:43:30 [notice] 18435#0: signal process started
+2017/10/06 11:48:04 [error] 18516#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:48:04 [error] 18516#0: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:48:04 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:48:04 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:48:04 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:48:04 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:48:04 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:48:04 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:48:04 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:48:04 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.67"
+2017/10/06 11:48:04 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:48:15 [error] 18516#0: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:48:15 [error] 18516#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:48:15 [error] 18516#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67", referrer: "https://192.168.122.67/"
+2017/10/06 11:48:45 [error] 18516#0: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:48:45 [error] 18516#0: *16 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 11:48:45 [error] 18516#0: *16 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.67"
+2017/10/06 11:54:24 [error] 18516#0: *19 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.137:8080/", host: "192.168.122.67"
+2017/10/06 11:54:24 [error] 18516#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET / HTTP/1.1", upstream: "http://192.168.122.62:8080/", host: "192.168.122.67"
+2017/10/06 12:02:04 [notice] 18702#0: signal process started
+2017/10/06 12:05:44 [notice] 18771#0: signal process started
+2017/10/06 12:09:07 [notice] 18836#0: signal process started
+2017/10/06 12:14:09 [notice] 18928#0: signal process started
+2017/10/06 12:18:04 [notice] 19021#0: signal process started
+2017/10/06 12:26:23 [error] 19065#0: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.67, request: "GET /fd HTTP/1.1", upstream: "http://192.168.122.62:8080/fd", host: "192.168.122.67"
+2017/10/06 12:30:56 [notice] 19211#0: signal process started
+2017/10/06 12:38:03 [notice] 19313#0: signal process started
+2017/10/06 12:43:38 [notice] 19439#0: signal process started
